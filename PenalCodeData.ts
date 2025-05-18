@@ -816,7 +816,7 @@ PenalCode[5] = {
       id: "P.C. 6016",
       months: 40,
       fine: 2000,
-      description: "A government employee, including but not limited to law enforcement, who act outside of the interests of the public good or justice OR a government employee who demonstrates criminal negligence in their duties OR a government employee convicted for committing a felony while on duty is guilty under this code section.",
+      description: "The deliberate abuse of authority by any public official, government employee, or elected representative for personal, financial, political, or organizational gain. This includes, but is not limited to: accepting bribes, engaging in quid pro quo arrangements, falsifying official records, misappropriating public resources, interfering with law enforcement investigations, or using official status to shield oneself or others from lawful accountability.",
     },
     17: {
       title: "Stalking",

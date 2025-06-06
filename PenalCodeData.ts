@@ -1004,10 +1004,26 @@ PenalCode[6] = {
     20: {
       title: "Public Indecency",
       class: "Infraction",
-      id: "P.C. 7019",
+      id: "P.C. 7020",
       months: 0,
       fine: 200,
       description: "A person who fails to appropriately dress themselves in a public place, or displays themselves to unconsenting parties in public areas, is guilty under this code section.",
+    },
+    21: {
+      title: "Unlawful Production of Moonshine",
+      class: "Felony",
+      id: "P.C. 7021",
+      months: 7,
+      fine: 750,
+      description: "The act of manufacturing, distilling, or fermenting alcoholic beverages, such as moonshine, without proper licensing or permits as required by law.",
+    },
+    22: {
+      title: "Possession or Distribution of Illegal Moonshine",
+      class: "Misdemeanor",
+      id: "P.C. 7022",
+      months: 5,
+      fine: 350,
+      description: "The act of possessing, transporting, or distributing unlicensed alcoholic beverages, such as moonshine, with the intent to sell or consume.",
     },
   },
 };
@@ -1139,7 +1155,7 @@ PenalCode[7] = {
     16: {
       title: "Flying into Restricted Airspace",
       class: "Felony",
-      id: "P.C. 8015",
+      id: "P.C. 8016",
       months: 10,
       fine: 750,
       description: "A person who, while operating an aircraft, flies over restricted airspace, or flies into controlled airspace without prior authorization from air control, is guilty under this code section.",
